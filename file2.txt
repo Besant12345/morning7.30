@@ -1,12 +1,9 @@
 this is the first line
 this is the second line
-<<<<<<< HEAD
-this is third line
 this is the fourth line
-his is the fifth line
+is is the fifth line
 this is the sixth line
 this is the seventh lin
 this is the eight lin
 
-=======
->>>>>>> parent of 2e5ba35... completed 60 percent
+
